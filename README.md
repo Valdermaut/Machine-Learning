@@ -1,5 +1,4 @@
-# Machine-Learning
-In this. repository I have done basics of matplotlib,pandas and numpy on colab Notebook
+# Machine-Learning (In this. repositoryI have done basics of matplotlib,pandas and numpy on colab Notebook)
 
 
 

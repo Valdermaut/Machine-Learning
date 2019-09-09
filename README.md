@@ -10,4 +10,4 @@ automatically generates the x values for you. Since python ranges start with 0,
 the default x vector has the same length as y but starts with 0. Hence the x data are [0,1,2,3].
  
  In computer programming, pandas is a software library written for the Python programming language for data manipulation 
- and analysiS
+ and analysis
